@@ -1,0 +1,27 @@
+# Godot
+.import/
+*.import
+.godot/
+.export/
+
+# Godot Mono (C#)
+.mono/
+bin/
+obj/
+*.sln
+*.csproj
+
+# Exported builds
+*.apk
+*.aab
+*.exe
+*.app
+*.zip
+*.pck
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tmp
