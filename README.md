@@ -54,11 +54,11 @@ Press **Space** to make the bird flap and avoid the pipes.
 1. Install [Godot Engine](https://godotengine.org/download).
 2. Clone or download this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/godot-flappy.git
-   cd godot-flappy
+   git clone https://github.com/sudeirmaak/Flappy-Bird-Godot.git
+   cd Flappy-Bird-Godot
 3. Open the folder in Godot (choose project.godot).
 4. Press Play (top right or F5) to start the game.
 
-### Option 2 - Download a Build
-1. A pre-built version is available.
+### Option 2 - Download a Build (Not available yet)
+1. If pre-built version is available.
 2. Just download it from the Releases section on GitHub and run it.
